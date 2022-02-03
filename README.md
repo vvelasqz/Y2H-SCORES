@@ -5,7 +5,7 @@ This repository contains the software Y2H-SCORES and supporting code for the pub
 
 **Overview**
 
-The structure of this repository consists of two directories. In the software directory all the functions and instructions to operate Y2H-SCORES can be found. The Publication directory contains all the supporting code for the publication, including the Y2H-NGIS simulator and the benchmarking of the method with several datasets.
+The structure of this repository consists of two directories. In the [Software](https://github.com/vvelasqz/Y2H-SCORES/tree/master/Software) directory all the functions and instructions to operate Y2H-SCORES can be found. The [Publication](https://github.com/vvelasqz/Y2H-SCORES/tree/master/Publication) directory contains all the supporting code for the publication, including the [Y2H-NGIS simulator](https://github.com/vvelasqz/Y2H-SCORES/tree/master/Publication/Y2H-NGIS_simulator) and the [Benchmarking](https://github.com/vvelasqz/Y2H-SCORES/tree/master/Publication/Benchmarking) of the method with several datasets.
 
 Y2H-SCORES has been published in PLoS Computational Biology, it can be accessed from https://doi.org/10.1371/journal.pcbi.1008890. Please refer to the paper for more details about each module. The entire pipeline has been coded in R.
  
