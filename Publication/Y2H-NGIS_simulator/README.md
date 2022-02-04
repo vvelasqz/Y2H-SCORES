@@ -1,1 +1,1 @@
-![Simulator](../Figures/Simulator.png)
+![Simulator](../../Figures/Simulator.png)
