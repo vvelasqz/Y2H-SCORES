@@ -17,3 +17,5 @@ If you use Y2H-SCORES, please cite
 
 * Sagnik Banerjee, Valeria Velásquez-Zapata, Gregory Fuerst, J Mitch Elmore, Roger P Wise (2020) NGPINT: a next-generation protein–protein interaction software. Briefings in Bioinformatics: bbaa351, https://doi.org/10.1093/bib/bbaa351
 
+
+![Y2H-NGIS workflow](Figure 1.tif)
