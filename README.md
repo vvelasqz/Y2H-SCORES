@@ -3,6 +3,10 @@
 
 This repository contains the software Y2H-SCORES and supporting code for the publication Velásquez-Zapata *et.al.* (2021) Next-generation yeast-two-hybrid analysis with Y2H-SCORES identifies novel interactors of the MLA immune receptor.   
 
+As a graphical summary we present the Y2H-NGIS workflow and Y2H-SCORES. A) Experimental workflow for batch Y2H-NGIS. After the mating between bait and prey, diploids go through a non-selective culture to reach exponential phase. Once there, the culture is split into two flasks, one for non-selection and another for selection. After reaching saturation in each condition, culture aliquots are taken to be sequenced. Schematic representation of the B) enrichment score, which detects changes in prey proportions in selected and non-selected conditions. C) The specificity score measures differences in the prey enrichments with different baits under selection. D) The in-frame score identifies the enrichment of prey reading frames under selection, assigning higher values to in-frame preys.
+
+![Y2H-NGIS workflow](Figures/Figure_1.png)
+
 **Overview**
 
 The structure of this repository consists of two directories. In the [Software](https://github.com/vvelasqz/Y2H-SCORES/tree/master/Software) directory all the functions and instructions to operate Y2H-SCORES can be found. The [Publication](https://github.com/vvelasqz/Y2H-SCORES/tree/master/Publication) directory contains all the supporting code for the publication, including the [Y2H-NGIS simulator](https://github.com/vvelasqz/Y2H-SCORES/tree/master/Publication/Y2H-NGIS_simulator) and the [Benchmarking](https://github.com/vvelasqz/Y2H-SCORES/tree/master/Publication/Benchmarking) of the method with several datasets.
@@ -17,5 +21,3 @@ If you use Y2H-SCORES, please cite
 
 * Sagnik Banerjee, Valeria Velásquez-Zapata, Gregory Fuerst, J Mitch Elmore, Roger P Wise (2020) NGPINT: a next-generation protein–protein interaction software. Briefings in Bioinformatics: bbaa351, https://doi.org/10.1093/bib/bbaa351
 
-
-![Y2H-NGIS workflow](Figures/Figure_1.png)
